@@ -1,0 +1,1 @@
+可以直接运行app打开程序，需要mediapipe和treamlit
